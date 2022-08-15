@@ -68,6 +68,25 @@ h4{
 }
 
 
-.imgs-div :nth-child(3){
 
+@media screen and (max-width:650px){
+    
+    nav img{
+        display: none;
+    }
+    .nav-item{
+        font-size: 15px;
+    }
+    .imgs-div img{
+         width: 30px;
+    }
+    .imgs-div :nth-child(3){
+        width: 250px;
+    }
+    .learn-more-btn{
+        width: 200px;
+    }
+    .signin-btn{
+        width: 70px;
+    }
 }
