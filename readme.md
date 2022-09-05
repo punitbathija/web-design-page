@@ -19,7 +19,7 @@
 
 - I used the `background-image` property and styled it with `conic-gradient`
 - I used `flex-direction` property and set it to `column-reverse` to achieve Mobile Responsiveness in `@media-queries`
-- Time Consumed to make this page 2 Hours 20 Minutes
+- Time Consumed to make this page **2 Hours 20 Minutes**
 - Preview
   ![preview](./thumbnail.png)
 
